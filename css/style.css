@@ -469,7 +469,7 @@ article .container .row .video-container embed {
 }
 article .container .row blockquote {
   font-style: italic;
-  font-family: "NanumBarunGothic", "Georgia", serif;
+  font-family: "Nanum Barun Gothic", "Georgia", serif;
   font-size: 1.2em;
   padding: 0 30px 15px;
   text-align: center;
@@ -512,7 +512,7 @@ figure.highlight {
 }
 figure.highlight figcaption {
   color: #999;
-  font-family: Monaco, Menlo, Consolas, Courier New, "NanumBarunGothic", monospace;
+  font-family: Monaco, Menlo, Consolas, Courier New, "Nanum Barun Gothic", monospaceo;
   margin-bottom: 5px;
   text-shadow: 0 0 1px #fff;
 }
